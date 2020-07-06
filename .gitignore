@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[A]ssets/CodeMonkey/
+[A]ssets/Editor/
+[A]ssets/Plugins/
+[A]ssets/TextMesh Pro/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
