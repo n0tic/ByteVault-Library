@@ -1,7 +1,7 @@
 # ByteVault-Library
 My complete Library for unity. It is ever expanding.. (I usually strip it down for the games purpose to keep clutter away.)
 
-## Bellow is an example of implementing the system
+## Bellow is an example of implementing one of the benefits
 ``` C# example
 using Bytevaultstudio.Utils; // Include the library
 
@@ -20,3 +20,5 @@ public static void CreateSingleton<T>(ref T instance, T _this, GameObject obj)
     MonoBehaviour.DontDestroyOnLoad(obj); // If this instance was not destroyed it should persist.
 }
 ```
+
+## This includes a lot more stuff. I will add to this readme doc at a later time
