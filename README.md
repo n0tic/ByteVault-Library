@@ -1,5 +1,6 @@
 # ByteVault-Library
-My complete Library for unity. It is ever expanding.. (I usually strip it down for the games purpose to keep clutter away.)
+My complete Library for unity. It is ever expanding.. meaning never done. (I usually strip it down for the games purpose to keep clutter away.)
+NOTE: Also, this repo is not up-to-date.
 
 ## Bellow is an example of implementing one of the benefits
 ``` C# example
